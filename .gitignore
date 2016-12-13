@@ -5,3 +5,6 @@
 target
 .springbeans
 
+# IDE files
+*.iml
+.idea
